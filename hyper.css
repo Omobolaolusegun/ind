@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.click{
+    /* border: hotpink; */
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: lawngreen;
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+}
+
+.click:hover{
+    color: black;
+}
+
+#song{
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: white;
+    background-color: purple;
+    text-align: center;
+    justify-content: center;
+}
+
+#song:hover{
+    color: black;
+}

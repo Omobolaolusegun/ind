@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.arr{
+   background: transparent;
+}
+
+.arr:hover{
+    transform: scale(1.1);
+    border-bottom: 2px solid violet;
+    transition: .4s;
+}
